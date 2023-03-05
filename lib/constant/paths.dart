@@ -1,0 +1,26 @@
+//ASSETS PATHS
+String ambulance="assets/icons/ambulance.svg";
+String article="assets/icons/article 1.svg";
+String calender="assets/icons/Calendar.svg";
+String calenderActive="assets/icons/Calendar2.svg";
+String doctor="assets/icons/doctor.svg";
+String home="assets/icons/Home.svg";
+String homeActive="assets/icons/Home2.svg";
+String medicine="assets/icons/medicine.svg";
+String message="assets/icons/Message.svg";
+String messageActive="assets/icons/Message2.svg";
+String notification="assets/icons/Notification.svg";
+String profile="assets/icons/Profile.svg";
+String profileActive="assets/icons/Profile2.svg";
+String search="assets/icons/Search.svg";
+String threePoint="assets/icons/threePoint.svg";
+String arrow="assets/icons/Arrow.svg";
+String danger="assets/icons/Danger.svg";
+String documant="assets/icons/Document.svg";
+String heart="assets/icons/Heart.svg";
+String walet="assets/icons/Wallet.svg";
+String chat="assets/icons/Chat.svg";
+String heartBeat="assets/icons/Heartbeat.svg";
+String fire="assets/icons/Fire.svg";
+String barbel="assets/icons/Barbell.svg";
+String time="assets/icons/Time.svg";
